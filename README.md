@@ -20,7 +20,7 @@ public class Main {
         tempNumber = number;
         while (tempNumber != 0) {
             basValue = tempNumber % 10;
-            // 1*1*1*1 = 1^4
+       
             basPow = 1;
             for (int i = 1; i <= basNumber; i++) {
                 basPow *= basValue;
