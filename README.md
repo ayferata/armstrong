@@ -39,12 +39,6 @@ public class Main {
         /*
         int a = 2451, basamakSayisi = 0, numberCounter = 0;
 
-        // Basamak Sayısı Bulma İşlemi
-        // 2451 / 10 = 245
-        // 245 / 10 = 24
-        // 24 / 10 = 2
-        // 2 / 10 = 0
-        // 0 / 10 = 0
 
         while (a != 0) {
             a /= 10;
