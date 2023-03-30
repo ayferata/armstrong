@@ -51,8 +51,7 @@ public class Main {
             numberCounter++;
         }
 
-        // Bir sayının son basamağını bulma
-        // 2451 % 10 = 1
+      
         int b = 2451;
         int c = b % 10;
 
