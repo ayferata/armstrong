@@ -37,12 +37,11 @@ public class Main {
 
         int a = 2451, basamakSayisi = 0, numberCounter = 0;
 
-
         while (a != 0) {
             a /= 10;
             numberCounter++;
         }
-        
+  
         int b = 2451;
         int c = b % 10;
 
