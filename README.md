@@ -42,8 +42,7 @@ public class Main {
             a /= 10;
             numberCounter++;
         }
-
-      
+        
         int b = 2451;
         int c = b % 10;
 
