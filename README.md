@@ -35,8 +35,6 @@ public class Main {
             System.out.println(number + " sayısı bir Armstrong sayısı değildir.");
         }
 
-
-        /*
         int a = 2451, basamakSayisi = 0, numberCounter = 0;
 
 
